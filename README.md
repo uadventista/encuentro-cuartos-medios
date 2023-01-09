@@ -6,4 +6,4 @@ Este proyecto es utilizado para fines educacionales. Este sitio web creado con H
 
 ### Autores y datos 🔧
 * **DIRCOM**
-* Fecha: 09/09/2021
+* Fecha: 09/01/2023
